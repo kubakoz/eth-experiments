@@ -1,4 +1,4 @@
 # eth-experments
 playing with solidity 
 
---hello world
+installing truffle and playing with basic solidity contracts, migration and testing framework
